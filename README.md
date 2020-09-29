@@ -5,3 +5,5 @@ all you have to is type your password and you will be notified about how strong 
 The application will measure password stregth based on these faactors
 
 Password Length,Uppercase, Lowercase, Numbers, SPecial Characters
+#
+https://libanmadar.github.io/Check-Password-Strength/
