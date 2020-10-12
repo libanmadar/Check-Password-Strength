@@ -10,4 +10,4 @@ Password Length, Uppercase letters, Lowercase letters, Numbers, Special Characte
 
 
 
-![Screenshot (93)](https://user-images.githubusercontent.com/55925449/94587693-8f4cad80-0248-11eb-9c30-e14026862267.png)
+![Password Strenth Screenshot](https://user-images.githubusercontent.com/55925449/95789012-51b53f00-0ca2-11eb-957e-cd08eb04388b.png)
