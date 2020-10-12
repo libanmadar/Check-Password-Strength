@@ -50,7 +50,17 @@ body{
   }
 
   .reasons > * {
-     margin-top: 10px;
+     margin-top: 1rem;
      color: whitesmoke;
+     pad
   }
   
+  @media only screen and (max-width: 400px) {
+    body {
+      padding: 2rem;
+    }
+    
+    .reasons{
+      margin-top: 2rem;
+    }
+  }
